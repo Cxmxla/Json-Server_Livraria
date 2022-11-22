@@ -1,0 +1,24 @@
+{
+  "name": "camila",
+  "version": "1.0.0",
+  "description": "Projeto Json-Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cxmxla/a.git"
+  },
+  "keywords": [
+    "json-server",
+    "node",
+    "restAPI"
+  ],
+  "author": "Camila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cxmxla/a/issues"
+  },
+  "homepage": "https://github.com/Cxmxla/a#readme"
+}

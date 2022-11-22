@@ -1,0 +1,122 @@
+{
+    "livros": [
+      {
+        "id": 1,
+        "nome": "A menina que roubava Livros",
+        "autor": "Markus Zusak",
+        "gênero": "Romance, Ficção Juvenil, Ficção Histórica"
+      },
+      {
+        "id:": 2,
+        "nome": "Battle Royale",
+        "autor": "Koushun Takami",
+        "gênero": "Romance, Terror, Suspense, Alegoria, História Alternativa, Ficção Distópica "
+      },
+      {
+        "id": 3,
+        "nome": "O Iluminado",
+        "autor": "Stephen King",
+        "gênero": "Romance, Terror, Ficção Gótica, Terror Piscológico, Ficção Supernatural"
+      },
+      {
+        "id": 4,
+        "nome": "A Divina Comédia",
+        "autor": "Dante Alighieri",
+        "gênero": "Poesia"
+      }
+    ],
+    "funcionarios": [
+      {
+        "id": 1,
+        "nome": "Julia",
+        "sobrenome": "Peixoto",
+        "idade": "37"
+      },
+      {
+        "id": 2,
+        "nome": "Mariana",
+        "sobrenome": "Duarte",
+        "idade": "29"
+      },
+      {
+        "id": 3,
+        "nome": "Gustavo",
+        "sobrenome": "Braga",
+        "idade": "30"
+      },
+      {
+        "id": 4,
+        "nome": "Paula",
+        "sobrenome": "Nascimento",
+        "idade": "58"
+      },
+      {
+        "id": 5,
+        "nome": "Jonatas",
+        "sobrenome": "Felipe",
+        "idade": "25"
+      },
+      {
+        "id": 6,
+        "nome": "Rogério",
+        "sobrenome": "Lima",
+        "idade": "32"
+      },
+      {
+        "id": 7,
+        "nome": "Karla",
+        "sobrenome": "Jordão",
+        "idade": "27"
+      },
+      {
+        "id": 8,
+        "nome": "Olivia",
+        "sobrenome": "Santos",
+        "idade": "43"
+      },
+      {
+        "id": 9,
+        "nome": "Lucas",
+        "sobrenome": "Salazar",
+        "idade": "19"
+      }
+    ],
+    "cargos": [
+      {
+        "id": 1,
+        "Cargo": "Gerente de Loja",
+        "Salário": "R$3150,00",
+        "Empregados": "Paula Nascimento"
+      },
+      {
+        "id": 2,
+        "Cargo": "Analista de Sistema",
+        "Salário": "R$5670,00",
+        "Empregados": "Julia Peixoto"
+      },
+      {
+        "id": 3,
+        "Cargo": "Balconista",
+        "Salário": "R$1800,00",
+        "Empregados": "Karla Jordão, Rogério Lima"
+      },
+      {
+        "id": 4,
+        "Cargo": "Auxiliar Administrativo",
+        "Salário": "R$2153,00",
+        "Empregados": "Lucas Salazar, Olivia Santos"
+      },
+      {
+        "id": 5,
+        "Cargo": "Auxiliar de Estoque",
+        "Salário": "R$1426,00",
+        "Empregados": "Gustavo Braga"
+      },
+      {
+        "id": 6,
+        "Cargo": "Atendente",
+        "Salário": "R$1800,00",
+        "Empregados": "Mariana Duarte, Jonatas Felipe"
+      }
+    ]
+  }
