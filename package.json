@@ -1,14 +1,10 @@
 {
-  "name": "camila",
+  "name": "Livraria_Json-Server-main",
   "version": "1.0.0",
   "description": "Projeto Json-Server",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start":"node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Cxmxla/a.git"
   },
   "keywords": [
     "json-server",
@@ -16,9 +12,8 @@
     "restAPI"
   ],
   "author": "Camila",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Cxmxla/a/issues"
-  },
-  "homepage": "https://github.com/Cxmxla/a#readme"
+  "dependencies":{
+  "json-server":"^0.17.0"
+  }
+
 }
