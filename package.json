@@ -13,7 +13,7 @@
   ],
   "author": "Camila",
   "dependencies":{
-  "json-server":"^0.17.0"
+  "json-server":"^0.17.1"
   }
 
 }
