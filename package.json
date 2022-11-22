@@ -1,19 +1,16 @@
 {
-  "name": "Livraria_Json-Server-main",
+  "name": "json-server-deploy",
   "version": "1.0.0",
-  "description": "Projeto Json-Server",
+  "description": "Um banco de dados simples",
   "main": "server.js",
   "scripts": {
-    "start":"node server.js"
+    "start": "node server.js"
   },
   "keywords": [
-    "json-server",
-    "node",
-    "restAPI"
+    "json-server,render, node, REST API"
   ],
   "author": "Camila",
-  "dependencies":{
-  "json-server":"^0.17.1"
+  "dependencies": {
+    "json-server": "^0.17.1"
   }
-
 }
